@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0861-score-after-flipping-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0861-score-after-flipping-matrix) |
 ## Binary Search
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
