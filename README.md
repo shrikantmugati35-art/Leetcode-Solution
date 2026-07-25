@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [3536-maximum-product-of-two-digits](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
