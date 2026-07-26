@@ -1,23 +1,22 @@
 class Solution {
 public:
-   void  printsubset( vector<vector<int>>&ans, int idx,vector<int>&v , vector<int>& nums){
+   void helper(vector<int>& nums,vector<int>ans,vector<vector<int>> &finalans,int idx){
     if(idx==nums.size()){
-        ans.push_back(v);
+        finalans.push_back(ans);
         return;
     }
-    
-     printsubset(ans,idx+1,v,nums);
-     v.push_back(nums[idx]);
-     printsubset(ans,idx+1,v,nums);
-     v.pop_back();
+    helper(nums,ans,finalans,idx+1);
+    ans.push_back(nums[idx]);
+    helper(nums,ans,finalans,idx+1);
+
 
    }
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>v;
-        vector<vector<int>>ans;
-        printsubset(ans,0,v,nums);
-        return ans;
+        vector<int>ans;
+        vector<vector<int>> finalans;
+        helper(nums,ans,finalans,0);
+        return finalans;
+
         
     }
 };
