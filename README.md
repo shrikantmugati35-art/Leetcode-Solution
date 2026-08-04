@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
