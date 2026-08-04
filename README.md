@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
