@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0326-power-of-three) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
