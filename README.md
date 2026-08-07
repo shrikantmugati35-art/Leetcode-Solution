@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [3536-maximum-product-of-two-digits](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0278-first-bad-version) |
+| [0633-sum-of-square-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
