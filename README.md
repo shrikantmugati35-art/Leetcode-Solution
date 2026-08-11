@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3925-concatenate-array-with-reverse](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
 ## Trie
