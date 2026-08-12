@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2187-minimum-time-to-complete-trips](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [3668-restore-finishing-order](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0861-score-after-flipping-matrix) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3668-restore-finishing-order](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## String
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
 | ------- |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0169-majority-element) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
 | ------- |
