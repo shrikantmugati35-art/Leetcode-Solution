@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [3668-restore-finishing-order](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3895-count-digit-appearances](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3895-count-digit-appearances) |
 ## Greedy
 |  |
 | ------- |
