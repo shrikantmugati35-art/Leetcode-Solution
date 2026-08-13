@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,9 +234,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
