@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2418-sort-the-people](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3668-restore-finishing-order](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3895-count-digit-appearances) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2418-sort-the-people) |
+| [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3894-traffic-signal-color](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
