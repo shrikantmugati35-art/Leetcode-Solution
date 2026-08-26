@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0861-score-after-flipping-matrix) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -280,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
