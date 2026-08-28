@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0054-spiral-matrix) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
