@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0861-score-after-flipping-matrix) |
@@ -300,5 +301,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
