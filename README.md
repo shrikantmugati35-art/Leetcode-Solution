@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -305,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
