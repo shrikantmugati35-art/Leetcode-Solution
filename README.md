@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3894-traffic-signal-color](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3959-check-good-integer) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3894-traffic-signal-color](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3895-count-digit-appearances) |
+| [3959-check-good-integer](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3959-check-good-integer) |
 ## Greedy
 |  |
 | ------- |
