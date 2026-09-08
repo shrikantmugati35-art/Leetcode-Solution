@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3894-traffic-signal-color](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2235-add-two-integers) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
@@ -325,4 +328,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
