@@ -345,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
