@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
