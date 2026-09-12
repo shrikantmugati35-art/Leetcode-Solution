@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
 | [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3668-restore-finishing-order](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3895-count-digit-appearances) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2418-sort-the-people) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3668-restore-finishing-order](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## String
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Number Theory
 |  |
 | ------- |
