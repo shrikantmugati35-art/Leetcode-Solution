@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0231-power-of-two) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
