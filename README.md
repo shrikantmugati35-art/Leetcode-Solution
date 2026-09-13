@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
