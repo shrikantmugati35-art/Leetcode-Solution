@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0962-maximum-width-ramp) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1052-grumpy-bookstore-owner) |
