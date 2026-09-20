@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3959-check-good-integer) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2418-sort-the-people](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2418-sort-the-people) |
+| [3498-reverse-degree-of-a-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3894-traffic-signal-color) |
 ## Trie
 |  |
