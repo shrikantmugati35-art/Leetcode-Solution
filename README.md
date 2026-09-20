@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0962-maximum-width-ramp) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
