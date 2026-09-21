@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0962-maximum-width-ramp) |
 ## Matrix
 |  |
