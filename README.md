@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
 | [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3895-count-digit-appearances) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
