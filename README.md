@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1669-merge-in-between-linked-lists) |
@@ -459,4 +461,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
