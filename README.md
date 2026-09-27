@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1995-count-special-quadruplets](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -466,4 +469,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
