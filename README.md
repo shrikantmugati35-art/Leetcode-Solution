@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0443-string-compression) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
@@ -497,18 +499,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
