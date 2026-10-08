@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0962-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
