@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
