@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0962-maximum-width-ramp) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1052-grumpy-bookstore-owner) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0897-increasing-order-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
 | [0962-maximum-width-ramp](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0962-maximum-width-ramp) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0962-maximum-width-ramp) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Matrix
 |  |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## DP on Trees
 |  |
@@ -620,5 +625,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
