@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
 | [2951-find-the-peaks](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2951-find-the-peaks) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2418-sort-the-people](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2418-sort-the-people) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3668-restore-finishing-order](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3731-find-missing-elements) |
