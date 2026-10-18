@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1901-find-a-peak-element-ii) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
