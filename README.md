@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2187-minimum-time-to-complete-trips](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2614-prime-in-diagonal) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0861-score-after-flipping-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0861-score-after-flipping-matrix) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1995-count-special-quadruplets](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
