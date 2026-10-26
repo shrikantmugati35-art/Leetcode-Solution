@@ -22,11 +22,13 @@ public:
     bool findTarget(TreeNode* root, int k) {
         vector<int>ans;
         inoreder(root ,ans);
-        for(int i=0;i<ans.size();i++){
-            for(int j=i+1;j<ans.size();j++){
-                if(ans[i]+ans[j]==k) return true;
-            }
-        }
+       int i=0;
+       int j=ans.size()-1;
+       while(i<j){
+        if(ans[i]+ans[j]==k) return true;
+        else if(ans[i]+ans[j]>k) j--;
+        else i++;
+       }
         return false;
 
     }
