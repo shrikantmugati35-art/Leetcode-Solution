@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1901-find-a-peak-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1995-count-special-quadruplets](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2235-add-two-integers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1995-count-special-quadruplets](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1995-count-special-quadruplets) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
