@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2331-evaluate-boolean-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
