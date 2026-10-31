@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0169-majority-element) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0242-valid-anagram) |
