@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
 | [1207-unique-number-of-occurrences](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [1079-letter-tile-possibilities](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1079-letter-tile-possibilities) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
