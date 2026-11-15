@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0509-fibonacci-number) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0231-power-of-two) |
@@ -804,4 +806,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
