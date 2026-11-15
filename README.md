@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
