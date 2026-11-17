@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0412-fizz-buzz) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -819,4 +822,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
