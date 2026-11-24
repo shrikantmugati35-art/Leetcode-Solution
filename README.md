@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0704-binary-search) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0781-rabbits-in-forest](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0781-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0861-score-after-flipping-matrix) |
@@ -850,4 +854,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
