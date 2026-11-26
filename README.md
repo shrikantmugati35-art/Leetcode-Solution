@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0455-assign-cookies) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -869,4 +872,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0646-maximum-length-of-pair-chain) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shrikantmugati35-art/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
